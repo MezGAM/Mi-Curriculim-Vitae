@@ -14,7 +14,7 @@ CV profesional de [Tu Nombre] desarrollado con HTML y CSS.
 - GitHub Pages para hosting
 
 ## Enlace
-Visita mi CV en: [https://TU-USUARIO.github.io/mi-cv](https://TU-USUARIO.github.io/mi-cv)](https://mezgam.github.io/Mi-Curriculim-Vitae/]
+Visita mi CV en: (https://mezgam.github.io/Mi-Curriculim-Vitae/)
 
 ## Contacto
 - Email: meztli.gam05@gmail.com
